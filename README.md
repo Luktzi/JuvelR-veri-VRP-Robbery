@@ -15,3 +15,7 @@ Inde Under Server Filer - Resources - [vrp] - vrp - cfg - Blip-markers
 Du kan også Vælge og Lave en Butik Hvor man kan Købe Halskæder hvor det står også kan du Få Et /skin eller /modelmenu ind og så når du har købt det ændre du bare til en halskæde Fk.s :) 
 
 Håber i Hygger jer med man kan røve JuvelButikken
+
+Husk og kig Alle Andre ting der kan Være Nyttig Infomation
+
+Kontakt Luktzi#2461 Over Discord Hvis i Har Problemer eller Brug For Hjælp til Ændringen i vrp_robbery :)
